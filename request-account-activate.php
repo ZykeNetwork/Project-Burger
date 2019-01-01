@@ -26,7 +26,7 @@
                     $data = getMsg('form_data');
                 ?>
                
-                <form action="<?= URLROOT.'/process/p_request_activate_account.php' ?>" method='POST'>
+                <form action="<?= URLROOT.'/process/request_activate_account.php' ?>" method='POST'>
 
 
                      <div class="form-group">
