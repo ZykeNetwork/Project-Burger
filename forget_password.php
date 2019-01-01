@@ -27,7 +27,7 @@
                     $data = getMsg('form_data');
                 ?>
                
-                <form action="<?= URLROOT.'/process/p_forget_password.php' ?>" method='POST'>
+                <form action="<?= URLROOT.'/process/forget_password.php' ?>" method='POST'>
 
 
                      <div class="form-group">
