@@ -1,2 +1,2 @@
 # Project-Burger
-A simple client area.
+Easy to Start, Easy to work, easy to understand. 
